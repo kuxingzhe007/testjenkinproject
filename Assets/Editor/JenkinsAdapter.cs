@@ -17,4 +17,8 @@ public class JenkinsAdapter
 
 		BuildPipeline.BuildPlayer(sceneList.ToArray(), "./android.apk", BuildTarget.Android, BuildOptions.None);
 	}
+
+	private void TestUpdateCommit(){
+
+	}
 }
