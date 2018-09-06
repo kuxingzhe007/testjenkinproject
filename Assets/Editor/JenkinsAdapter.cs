@@ -25,7 +25,7 @@ public class JenkinsAdapter
     public static void DebugTest()
     {
         Debug.Log("打印日志");
-        Debug.LogWarning("打印日志1");
+        Debug.LogWarning("打印日志11");
         Debug.LogError("打印日志2");
     }
 }
